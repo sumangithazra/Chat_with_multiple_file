@@ -28,8 +28,7 @@ gemini_pdf_chatbot/
 1. **Clone the repository**
 
    ```bash
-   git clone <repo-url>
-   cd gemini_pdf_chatbot
+   git clone https://github.com/sumangithazra/Chat_with_multiple_file.git 
    ```
 
 2. **Create a virtual environment**
@@ -104,7 +103,7 @@ Then open your browser to `http://localhost:8501`.
 - `langchain-chroma`, `chromadb`
 - `pypdf`, `docx2txt`
 
-See `requirements.txt` for exact versions.
+See `requirements.txt` 
 
 ---
 
@@ -125,5 +124,4 @@ See `requirements.txt` for exact versions.
 
 ---
 
-© 2025 Your Name. All rights reserved. Feel free to contribute!
 
